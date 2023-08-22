@@ -1,0 +1,7 @@
+C:\ITC\GIT Assignment\gitapp\gitapp\obj\Release\net6.0\PubTmp\Out\gitapp.exe
+C:\ITC\GIT Assignment\gitapp\gitapp\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\ITC\GIT Assignment\gitapp\gitapp\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\ITC\GIT Assignment\gitapp\gitapp\obj\Release\net6.0\PubTmp\Out\gitapp.dll
+C:\ITC\GIT Assignment\gitapp\gitapp\obj\Release\net6.0\PubTmp\Out\gitapp.deps.json
+C:\ITC\GIT Assignment\gitapp\gitapp\obj\Release\net6.0\PubTmp\Out\gitapp.runtimeconfig.json
+C:\ITC\GIT Assignment\gitapp\gitapp\obj\Release\net6.0\PubTmp\Out\gitapp.pdb
